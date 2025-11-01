@@ -1,6 +1,6 @@
 # 🔧 Zunc Executor Test
 
-Zunc Executor Test é uma suíte completa de testes desenvolvida para avaliar a compatibilidade, estabilidade e recursos de executores Lua/Roblox.
+Zunc Executor Test é uma suíte completa de testes desenvolvida pela SaloMenu para avaliar a compatibilidade, estabilidade e recursos de executores Lua/Roblox.
 Ela executa automaticamente uma série de verificações em diferentes áreas, fornecendo um relatório detalhado do que é totalmente suportado, parcialmente suportado ou não funcional no executor testado.
 
 # ✅ O que este teste faz?
