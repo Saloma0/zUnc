@@ -1,4 +1,4 @@
-# 🔧 Hyper UNC Executor Test
+# 🔧 Zap Unified Naming Convention Executor Test
 
 Hyper UNC Executor Test é uma suíte completa de testes desenvolvida para avaliar a compatibilidade, estabilidade e recursos de executores Lua/Roblox.
 Ela executa automaticamente uma série de verificações em diferentes áreas, fornecendo um relatório detalhado do que é totalmente suportado, parcialmente suportado ou não funcional no executor testado.
